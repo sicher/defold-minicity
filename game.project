@@ -1,0 +1,11 @@
+[bootstrap]
+main_collection = /main/main.collectionc
+
+[project]
+title = car
+
+[display]
+width = 1920
+height = 1024
+high_dpi = 0
+
